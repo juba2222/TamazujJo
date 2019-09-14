@@ -750,32 +750,6 @@
             <point key="canvasLocation" x="-1782" y="741"/>
         </scene>
         <!--View Controller-->
-        <scene sceneID="mOv-ST-NYY">
-            <objects>
-                <viewController id="PFG-oc-yqE" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="feE-S2-3Fl">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Log_In_BG" translatesAutoresizingMaskIntoConstraints="NO" id="i1u-ZB-GSP">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                            </imageView>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                        <constraints>
-                            <constraint firstAttribute="trailing" secondItem="i1u-ZB-GSP" secondAttribute="trailing" id="2Nw-y1-mCw"/>
-                            <constraint firstItem="i1u-ZB-GSP" firstAttribute="top" secondItem="feE-S2-3Fl" secondAttribute="top" id="G78-Bl-7AA"/>
-                            <constraint firstItem="i1u-ZB-GSP" firstAttribute="leading" secondItem="feE-S2-3Fl" secondAttribute="leading" id="JFB-ss-7Fy"/>
-                            <constraint firstAttribute="bottom" secondItem="i1u-ZB-GSP" secondAttribute="bottom" id="ffX-Mm-cLp"/>
-                        </constraints>
-                        <viewLayoutGuide key="safeArea" id="17O-Qa-oYg"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="7C7-8c-mbC" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-1783.2" y="1488.305847076462"/>
-        </scene>
-        <!--View Controller-->
         <scene sceneID="HuA-oX-U5C">
             <objects>
                 <viewController id="l1G-l8-C6u" sceneMemberID="viewController">
