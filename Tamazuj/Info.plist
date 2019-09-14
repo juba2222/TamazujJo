@@ -41,5 +41,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Cairo-Bold.otf</string>
+		<string>Cairo-Regular.otf</string>
+	</array>
 </dict>
 </plist>
