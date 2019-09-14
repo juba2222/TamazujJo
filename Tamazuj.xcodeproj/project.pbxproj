@@ -28,6 +28,7 @@
 		13FC829A2321B16300D8C7A8 /* UIView+Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13FC82832321B16300D8C7A8 /* UIView+Extention.swift */; };
 		13FC829D2321B16300D8C7A8 /* TextFiledPadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13FC82862321B16300D8C7A8 /* TextFiledPadding.swift */; };
 		13FC82A92321B53B00D8C7A8 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13FC82A82321B53B00D8C7A8 /* SignInViewController.swift */; };
+		83E48C09232DAE750057A63D /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E48C08232DAE750057A63D /* SignUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		13FC82832321B16300D8C7A8 /* UIView+Extention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extention.swift"; sourceTree = "<group>"; };
 		13FC82862321B16300D8C7A8 /* TextFiledPadding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFiledPadding.swift; sourceTree = "<group>"; };
 		13FC82A82321B53B00D8C7A8 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		83E48C08232DAE750057A63D /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				13FB87702322833F00A8CA25 /* Menu2ViewController.swift */,
 				13FB876E232281F900A8CA25 /* HomeAdvisorViewController.swift */,
 				13FB87722322901F00A8CA25 /* CategorySelectionViewController.swift */,
+				83E48C08232DAE750057A63D /* SignUpViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				13FB876D23226D5700A8CA25 /* MenuTableViewCell.swift in Sources */,
 				13FB87692321EEC100A8CA25 /* MyConsultancyViewController.swift in Sources */,
 				13FB87652321E8BD00A8CA25 /* Main2ViewController.swift in Sources */,
+				83E48C09232DAE750057A63D /* SignUpViewController.swift in Sources */,
 				13FB876B23226AD900A8CA25 /* MenuViewController.swift in Sources */,
 				13FC827F23215F3A00D8C7A8 /* CustomePageControl.swift in Sources */,
 				13FC827D232145DF00D8C7A8 /* MainCollectionCell.swift in Sources */,
